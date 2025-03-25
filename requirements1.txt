@@ -1,0 +1,2 @@
+cpyvpn 1.6.2
+pip install cpyvpn
